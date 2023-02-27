@@ -1,0 +1,6 @@
+sudo apt install gparted
+sudo apt install bleachbit
+sudo apt install bless
+sudo apt install preload
+sudo apt install neofetch
+sudo apt install net-tools
